@@ -188,7 +188,7 @@ lighthouse-report.png
 
 ### 🖥️ Desktop View
 
-![Desktop Screenshot](./screenshots/hero-desktop.png)
+<img width="1047" height="932" alt="Screenshot 2025-11-23 102639" src="https://github.com/user-attachments/assets/a8783cec-fabf-4b47-99bf-e50f89a0261d" />
 
 ### 📱 Mobile View
 
