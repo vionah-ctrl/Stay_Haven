@@ -192,11 +192,13 @@ lighthouse-report.png
 
 ### 📱 Mobile View
 
-![Mobile Screenshot](./screenshots/hero-mobile.png)
+<img width="514" height="953" alt="Screenshot 2025-11-23 102603" src="https://github.com/user-attachments/assets/424b15db-faa1-431b-8cbc-86179d51ebb3" />
+
 
 ### 💻 Tablet View
 
-![Tablet Screenshot](./screenshots/hero-tablet.png)
+<img width="801" height="489" alt="v" src="https://github.com/user-attachments/assets/fe573dc4-133a-4fef-a167-70bc5b1f9df6" />
+
 
 ---
 
